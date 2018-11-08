@@ -1,0 +1,36 @@
+.email-details{
+    margin-top:80px;
+}
+
+.email-main{
+    padding: 0 15px;
+    margin-bottom: 15px;
+}
+
+.emails-nav{
+    font-size: 3rem;
+    padding: 0 15px;
+    color: var(--dark);
+    margin-bottom: 15px;
+
+}
+
+.email-bottom-ctrl{
+    padding: 0 15px;
+
+    font-size: 3rem;   
+    color: var(--dark);
+}
+
+@media (min-width:680px){
+    .email-details{
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0 20px;
+        margin-top:80px;
+
+    }
+    
+}
+
+
